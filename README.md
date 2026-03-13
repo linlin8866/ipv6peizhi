@@ -52,3 +52,11 @@ fi
 
 
 
+# 查看全部 IP
+ip addr
+
+# 只看 IPv4
+ip -4 addr
+
+# 只看 IPv6
+ip -6 addr
